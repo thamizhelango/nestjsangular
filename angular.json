@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "nestjs": {
+      "architect": {
+        "build": {
+          "configurations": {
+            "instrumenter": {}
+          }
+        }
+      }
+    }
+  }
+}
